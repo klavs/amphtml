@@ -19,12 +19,12 @@ limitations under the License.
 Displays a Youtube video.
 
 Example:
-
-    <amp-youtube
-        video-id="mGENRKrdoGY"
-        layout="responsive"
-        width="480" height="270"></amp-youtube>
-
+```html
+<amp-youtube
+    video-id="mGENRKrdoGY"
+    layout="responsive"
+    width="480" height="270"></amp-youtube>
+```
 
 With responsive layout the width and height from the example should yield correct layouts for 16:9 aspect ratio videos
 
@@ -34,4 +34,4 @@ With responsive layout the width and height from the example should yield correc
 
 The Youtube video id found in every Youtube video page URL
 
-E.g. in https://www.youtube.com/watch?v=Z1q71gFeRqM Z1q71gFeRqM is the video id.
+E.g. in https://www.youtube.com/watch?v=Z1q71gFeRqM `Z1q71gFeRqM` is the video id.
