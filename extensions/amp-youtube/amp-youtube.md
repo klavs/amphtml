@@ -19,6 +19,7 @@ limitations under the License.
 Displays a Youtube video.
 
 Example:
+
     <amp-youtube
         video-id="mGENRKrdoGY"
         layout="responsive"
