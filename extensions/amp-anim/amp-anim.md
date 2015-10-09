@@ -56,6 +56,6 @@ A string that indicates the attribution of the image. E.g. `attribution=“CC co
 placeholder for example could be achieved via:
 ```css
 amp-anim {
-    background-color: grey;
+  background-color: grey;
 }
 ```
