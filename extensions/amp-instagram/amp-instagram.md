@@ -19,14 +19,14 @@ limitations under the License.
 Displays an instagram embed.
 
 Example:
-
-    <amp-instagram
-      shortcode="fBwFP"
-      width="400"
-      height="400"
-      layout="responsive">
-    </amp-instagram>
-
+```html
+<amp-instagram
+    shortcode="fBwFP"
+    width="400"
+    height="400"
+    layout="responsive">
+</amp-instagram>
+```
 The `width` and `height` attributes are special for the instagram embed.
 These should be the actual width and height of the instagram image.
 The system automatically adds space for the "chrome" that instagram adds around the image.
