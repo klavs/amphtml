@@ -41,4 +41,4 @@ When using non-responsive layout you will need to account for the extra space ad
 
 The instagram shortcode found in every instagram photo URL.
 
-E.g. in https://instagram.com/p/fBwFP fBwFP is the shortcode.
+E.g. in https://instagram.com/p/fBwFP `fBwFP` is the shortcode.
