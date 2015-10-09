@@ -29,6 +29,7 @@ The typical scenario looks like this:
     role="button"
     tabindex="0"
     src="image1" width=200 height=100></amp-img>
+    
 <amp-image-lightbox id="lightbox1" layout="nodisplay"></amp-image-lightbox>
 ```
 The `amp-image-lightbox` is activated using `on` action on the `amp-img` element
