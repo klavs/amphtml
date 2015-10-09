@@ -19,12 +19,12 @@ limitations under the License.
 Displays a Twitter Tweet.
 
 Example:
-
-    <amp-twitter width=486 height=657
-        layout="responsive"
-        data-tweetid="585110598171631616"
-        data-cards="hidden">
-
+```html
+<amp-twitter width=486 height=657
+    layout="responsive"
+    data-tweetid="585110598171631616"
+    data-cards="hidden">
+```
 **CAVEATS**
 
 Twitter does not currently provide an API that yields fixed aspect ratio Tweet embeds. We currently automatically proportionally scale the Tweet to fit the provided size, but this may yield less than ideal appearance. Authors may need to manually tweak the provided width and height. You may also use the `media` attribute to select the aspect ratio based on screen width. We are looking for feedback how feasible this approach is in practice.
