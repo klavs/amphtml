@@ -19,6 +19,7 @@ limitations under the License.
 Displays an instagram embed.
 
 Example:
+
     <amp-instagram
       shortcode="fBwFP"
       width="400"
